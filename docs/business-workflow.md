@@ -15,7 +15,7 @@
   * Nếu không tìm thấy dịch vụ phù hợp, hệ thống thông báo và đề nghị khách hàng thay đổi tiêu chí tìm kiếm.
 
 ### Sơ đồ quy trình tìm kiếm và lựa chọn dịch vụ
-![Sơ đồ quy trình tìm kiếm và lựa chọn dịch vụ](./docs/images/QT_timkiem.png)
+![Sơ đồ quy trình tìm kiếm và lựa chọn dịch vụ](./images/QT_timkiem.png)
 
 ---
 
