@@ -37,7 +37,7 @@
   * Nếu dịch vụ không còn hoạt động, hệ thống thông báo để khách hàng lựa chọn dịch vụ khác.
 
 ### Sơ đồ quy trình đặt lịch dịch vụ
-![Sơ đồ quy trình đặt lịch dịch vụ](./docs/images/QT_datdichvu.png)
+![Sơ đồ quy trình đặt lịch dịch vụ](./images/QT_datdichvu.png)
 
 ---
 
@@ -58,5 +58,5 @@
   * Nếu nội dung đánh giá thiếu thông tin bắt buộc, hệ thống thông báo để khách hàng bổ sung trước khi gửi.
 
 ### Sơ đồ quy trình theo dõi và đánh giá dịch vụ
-![Sơ đồ quy trình theo dõi và đánh giá dịch vụ](./docs/images/QT_danhgia.png)
+![Sơ đồ quy trình theo dõi và đánh giá dịch vụ](./images/QT_danhgia.png)
 
