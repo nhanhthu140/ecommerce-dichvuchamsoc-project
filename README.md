@@ -32,14 +32,14 @@ Hệ thống được chia thành 3 phân hệ giao diện trên cùng một n�
 
 ## 4. Thành viên
 Nhóm thực hiện dự án gồm **4 thành viên**:
-* **Thành viên 1** – Project Manager (PM) & Business Analyst (BA)
-* **Thành viên 2** – UI/UX Designer & Frontend Developer
-* **Thành viên 3** – Backend Developer & Database Admin
-* **Thành viên 4** – QA/Tester & E-commerce Operations
+* **Nguyễn Huỳnh Anh Thư** – Project Manager (PM) & Business Analyst (BA)
+* **Nguyễn Thúy Hiền** – UI/UX Designer & Frontend Developer
+* **Đoàn Thị Anh Thư** – Backend Developer & Database Admin
+* **Bùi Thanh Ngân** – QA/Tester & E-commerce Operations
 
 ## 5. Công nghệ dự kiến
 * **Frontend:** HTML5, CSS3, JavaScript (ReactJS / Tailwind CSS)
-* **Backend:** Node.js (Express) *(hoặc PHP / Java Spring Boot)*
+* **Backend:** Node.js (Express) *(hoặc PHP / Java Spring Boot)* - chưa thống nhất
 * **Cơ sở dữ liệu (Database):** MySQL / PostgreSQL
 * **Thiết kế UI/UX:** Figma
 * **Quản lý mã nguồn & Triển khai:** Git, GitHub, Vercel / Render
